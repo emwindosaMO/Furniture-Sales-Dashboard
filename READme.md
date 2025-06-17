@@ -94,7 +94,7 @@ It demonstrates how powerful Excel can be for building interactive business dash
 
 🖼️ **Screenshots**
 
-[Furniture sales dashboard](https://github.com/user-attachments/assets/2eda86d1-5d63-4776-97f9-7edc008534a0)
+[Furniture _sales_dashboard](https://github.com/user-attachments/assets/2eda86d1-5d63-4776-97f9-7edc008534a0)
 
 
 
