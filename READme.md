@@ -6,6 +6,11 @@ The dashboard is designed to help stakeholders track sales performance, monitor 
 
 
 
+
+---
+
+
+
 📊 **Dashboard Overview**
 
 Key features of the dashboard include:
@@ -19,6 +24,11 @@ Key features of the dashboard include:
 ✔ Regional Performance:A map/chart that highlights which regions/states had the best sales output.
 
 ✔ Dynamic Filters:Slicers to filter by year, region, or category, allowing users to explore the data from multiple perspectives.
+
+
+
+
+----
 
 
 
@@ -37,6 +47,10 @@ Key features of the dashboard include:
 * Dashboard Layout & Design
 
 * Business Intelligence Thinking
+
+
+
+---
 
 
 
@@ -61,10 +75,20 @@ Key features of the dashboard include:
 * Profit
 
 
+
+---
+
+
+
 📌 **About This Project**
 
 This Excel dashboard was created as part of my data analytics learning journey. 
 It demonstrates how powerful Excel can be for building interactive business dashboards even without advanced BI tools. The project helped me practice data cleaning, aggregation, and visual storytelling in a business context.
+
+
+
+
+---
 
 
 
@@ -73,7 +97,14 @@ It demonstrates how powerful Excel can be for building interactive business dash
 [Furniture sales dashboard](https://github.com/user-attachments/assets/2eda86d1-5d63-4776-97f9-7edc008534a0)
 
 
-🤝 **Let's Connect*8
+
+---
+
+
+🤝 **Let's Connect**
+* [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
+* [Portfolio](https://your-portfolio-link.com)
+* [Email](osarenmwindame@gmail.com)
 
 
 
